@@ -1,0 +1,20 @@
+.name {
+    color: gray;
+    font-size: 200%;
+    text-align: center;
+}
+section#picture {
+    margin-top: 45px;
+    height: 700px;
+    width: 400px;
+    float: left;
+    position: fixed;
+}
+
+section#information {
+    background: linear-gradient(white, gray);
+    padding-left: 50px;
+    height: auto;
+    margin-left: 400px;
+    margin-top: -20px;
+}
